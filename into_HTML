@@ -1,0 +1,44 @@
+See Around you, the internet is filled with millions of "web pages"
+
+This web pages are made up to standard markup language HTML.
+HTML => Hyper Text markup language 
+
+Using the HTML we can create web sites however we want 
+
+HTML consists of a series of elements that tells the browser how to display the content.
+
+
+Basically the web browser will read the html documents and display them correctly.
+
+for Ex: content inside the <title> </title> tag
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Web Page</title>
+    </head>
+    <body>
+        <h1> Welcome to my web page</h1>>
+    </body>
+</html>
+
+Here the browser will understand that it is the title of the web page and will display it in the title bar of the browser window.
+
+similary the content inside the <h1> </h1> tag will be displayed as a heading on the web page.
+[ Browser understanding ]
+
+similarly using HTML we can display the images, tables, forms etc on the web page.
+
+Building a web site using is HTML is easy and simple, use the steps below.
+=> understand the different HTML tags, elements such as 
+<h1> => heading
+<p>  => paragraph
+<title> => title of the web page.
+<img> => image
+<table> => table
+<form> => forms 
+
+NOTE: Using the above HTML elements markup and design your own document and save it with .html extension.
+Afer all this open the document in any web browser and see the output.
+
+NOTE: Open the file using the web browser and then we can see the web site.
